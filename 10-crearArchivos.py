@@ -14,4 +14,7 @@ lectura = texto.readlines()
 
 
 print(type(lectura))
+for i in lectura:
+    print(i)
+
 texto.close()

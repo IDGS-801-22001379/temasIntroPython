@@ -1,0 +1,8 @@
+Nombre: Yael
+Boletos: 14
+Total: $128.52
+
+Nombre: Ana
+Boletos: 1
+Total: $10.80
+

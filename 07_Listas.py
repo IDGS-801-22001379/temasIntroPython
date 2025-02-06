@@ -13,7 +13,7 @@ print(lista1 [3:])
 
 lista1.append("Vargas")
 print(lista1)
-
+# Inserta en la lista
 lista1.insert(2, "Nadia")
 print(lista1)
 
